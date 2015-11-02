@@ -1,0 +1,6 @@
+name: Feldman
+description: Feldman's Main Site
+paginate: 10
+baseurl: ''
+
+exclude: ["samples"]
